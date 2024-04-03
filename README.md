@@ -6,4 +6,8 @@ Read me file uses markdown syntax to edit any text, formulas or codes.
 - GitHub
 ## My major projects
 ## My favorite part of code
-
+```java
+  else{
+      System.out.println("I do not recognize this season!");
+    }
+```
